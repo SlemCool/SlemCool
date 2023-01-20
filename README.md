@@ -1,4 +1,24 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="its_me.jpg" width="120"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://vk.com/o_o_apelsinka">
+    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+  </a>
+</div>
+<h1 align="center">
+  Hi there 👋
+</h1>         
+
+<div align="center">
+  <img src="head.jpg"/>
+</div>
+
+### :man_technologist: About Me :
+
+<div id="footer" align="center">
+  <img src="https://komarev.com/ghpvc/?username=SlemCool&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **SlemCool/SlemCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
