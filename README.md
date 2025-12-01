@@ -28,8 +28,6 @@ I am junior Python Developer from Russia:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SlemCool&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlemCool&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div id="footer" align="center">
   <img src="its_me.jpg" width="120"/>
 
